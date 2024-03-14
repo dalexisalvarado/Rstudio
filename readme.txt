@@ -5,3 +5,5 @@ La información cuenta con las provincias de Santa Cruz, Neuquen, Chubut, Mendoz
 Link del dataset:
 
 http://datos.energia.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/b5b58cdc-9e07-41f9-b392-fb9ec68b0725
+
+Diego Alvarado
